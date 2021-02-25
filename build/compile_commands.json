@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/16104/Desktop/c++.vscode/build",
+  "command": "D:\\vsc\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\demo0.dir\\main.cpp.obj -c C:\\Users\\16104\\Desktop\\c++.vscode\\main.cpp",
+  "file": "C:/Users/16104/Desktop/c++.vscode/main.cpp"
+},
+{
+  "directory": "C:/Users/16104/Desktop/c++.vscode/build",
+  "command": "D:\\vsc\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\demo0.dir\\demo.cpp.obj -c C:\\Users\\16104\\Desktop\\c++.vscode\\demo.cpp",
+  "file": "C:/Users/16104/Desktop/c++.vscode/demo.cpp"
+}
+]

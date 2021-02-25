@@ -1,0 +1,5 @@
+C:/Users/16104/Desktop/c++.vscode/build/CMakeFiles/demo0.dir
+C:/Users/16104/Desktop/c++.vscode/build/CMakeFiles/package.dir
+C:/Users/16104/Desktop/c++.vscode/build/CMakeFiles/package_source.dir
+C:/Users/16104/Desktop/c++.vscode/build/CMakeFiles/edit_cache.dir
+C:/Users/16104/Desktop/c++.vscode/build/CMakeFiles/rebuild_cache.dir
