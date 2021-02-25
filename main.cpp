@@ -8,6 +8,6 @@ int main()
     int b = 0;
     double c = 0, d = 0;
     int h = 0;
-    std::cout << h;
+    std::cout << func();
     return 0;
 }
